@@ -20,4 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: nice_view
+    shield: vt_tech_left
+  - board: nice_nano_v2
+    shield: vt_tech_right

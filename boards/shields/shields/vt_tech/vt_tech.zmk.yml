@@ -1,0 +1,14 @@
+file_format: "1"
+id: vt_tech
+name: VT-Tech_Keyboard
+type: shield
+url: https://github.com/vitaliturkov/vt-tech
+requires:
+  - pro_micro
+exposes:
+  - GPIO
+features:
+  - keys
+siblings:
+  - vt_tech_left
+  - vt_tech_right
