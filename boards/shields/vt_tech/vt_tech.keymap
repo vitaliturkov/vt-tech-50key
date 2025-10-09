@@ -87,7 +87,7 @@
 &trans        &kp F10          &kp F1       &kp F2        &kp F3        &kp DOT               &kp BSPC      &kp ENTER          &kp LC(V)       &kp DEL           &kp LC(X)       &trans
 &trans        &trans           &kp F11      &kp F12       &trans        &trans                &trans        &mo 3              &kp LC(Z)       &kp LC(Y)         &trans          &none
             >;
-        ;;
+        };
 
         layer_3 {
             bindings = <
