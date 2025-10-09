@@ -2,7 +2,7 @@ if SHIELD_VT_TECH_DONGLE
 
     # Max 16 characters in keyboard name
     config ZMK_KEYBOARD_NAME
-        default "zmk-keyboard-vt_tech"
+        default "vt-tech_keyboard"
 
     config ZMK_SPLIT_ROLE_CENTRAL
         default y
