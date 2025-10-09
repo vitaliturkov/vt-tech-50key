@@ -1,7 +1,9 @@
 # No whitespace after the comma or in your part name!
+config SHIELD_VT_TECH_DONGLE
+    def_bool $(shields_list_contains,vt_tech_dongle)
+
 config SHIELD_VT_TECH_LEFT
     def_bool $(shields_list_contains,vt_tech_left)
 
-# No whitespace after the comma or in your part name!
 config SHIELD_VT_TECH_RIGHT
     def_bool $(shields_list_contains,vt_tech_right)
