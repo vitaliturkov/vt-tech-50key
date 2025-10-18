@@ -62,7 +62,7 @@
 &kp ESC       &kp Q            &kp W        &kp E         &kp R         &kp T                 &kp Y         &kp U              &kp I           &kp O             &kp P           &kp MINUS
 &kp TAB       &kp A            &mt LCTRL S  &mt LALT D    &mt LSHFT F   &kp G                 &kp H         &mt RSHFT J        &mt RALT K      &mt RCTRL L       &kp SEMI        &kp SQT
 &kp LWIN      &kp Z            &kp X        &kp C         &kp V         &kp B                 &kp N         &kp M              &kp COMMA       &kp DOT           &kp FSLH        &kp DEL
-&none         &none            &kp TILDE    &kp K_MENU    &none         &none                 &none         &none              &kp K_BACK      &kp K_FORWARD     &none           &none
+&none         &none            &kp TILDE    &kp K_MENU    &none         &none                 &none         &none              &kp K_BACKi      &kp K_FORWARD     &none           &none
 &none         &mo 1            &mo 2        &kp K_CUT     &kp K_COPY    &kp K_PASTE           &kp ENTER     &kp SPACE          &kp BSPC        &mo 3             &mo 4           &none
             >;
         };
@@ -73,7 +73,7 @@
 &trans        &trans           &trans       &trans        &trans        &trans                &trans        &trans             &kp UP          &trans            &trans          &trans
 &trans        &trans           &trans       &trans        &trans        &trans                &trans        &kp LEFT           &trans          &kp RIGHT         &trans          &trans
 &trans        &trans           &trans       &trans        &trans        &trans                &trans        &trans             &kp DOWN        &trans            &trans          &trans
-&none         &none            &trans       &trans        &none         &none                 &none         &none              &trans          &trans            &none           &none
+&none         &none            &trans       &trans        &none         &none                 &none         &none              &kp K_VOL_DN    &kp K_VOL_UP      &none           &none
 &none         &trans           &trans       &trans        &trans        &trans                &trans        &trans             &trans          &trans            &trans          &none
             >;
         };
