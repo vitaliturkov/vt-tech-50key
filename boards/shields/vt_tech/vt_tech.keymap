@@ -73,7 +73,7 @@
 &trans        &trans           &trans       &trans        &trans        &trans                &trans        &trans             &kp UP          &trans            &trans          &trans
 &trans        &trans           &trans       &trans        &trans        &trans                &trans        &kp LEFT           &trans          &kp RIGHT         &trans          &trans
 &trans        &trans           &trans       &trans        &trans        &trans                &trans        &trans             &kp DOWN        &trans            &trans          &trans
-&none         &none            &trans       &trans        &none         &none                 &none         &none              &kp K_VOL_DN    &kp K_VOL_UP      &none           &none
+&none         &none            &trans       &trans        &none         &none                 &none         &none              &kp K_VOL_DN          &trans            &none           &none
 &none         &trans           &trans       &trans        &trans        &trans                &trans        &trans             &trans          &trans            &trans          &none
             >;
         };
