@@ -8,31 +8,6 @@
 
 #include <dt-bindings/zmk/pointing.h>
 
-// Desktop and tab navigation shortcuts
-
-#define DESKTOP_LT   LC(LG(LEFT))
-#define DESKTOP_RT   LC(LG(RIGHT))
-#define WINDOW_LT    LA(LS(TAB))
-#define WINDOW_RT    LA(TAB)
-#define TAB_LT       LC(LS(TAB))
-#define TAB_RT       LC(TAB)
-
-// NOT USED  &kp LG(LC(LEFT))  &kp LG(LC(RIGHT))
-// Generic bindings
-
-#define KILL_WINDOW  LA(F4)
-#define MAXIMIZE     LG(UP)
-#define MINIMIZE     LG(DOWN)
-#define UN_MINIMIZE  LG(LC(N))
-
-// Short versions
-#define BT0         BT_SEL 0
-#define BT1         BT_SEL 1
-#define BT2         BT_SEL 2
-#define BT3         BT_SEL 3
-#define BT4         BT_SEL 4
-#define PAUSE       PAUSE_BREAK
-
 
 &mt {
     flavor = "tap-preferred";
