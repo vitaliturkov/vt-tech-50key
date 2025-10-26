@@ -17,7 +17,7 @@
 
 &lt {
     flavor = "balanced";
-    tapping-term-ms = <150>;rt
+    tapping-term-ms = <150>;
 };
 
 
