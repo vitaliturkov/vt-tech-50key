@@ -33,10 +33,10 @@
         layer_0 {
             bindings = <
 &none         &none            &none        &none         &none         &none                 &none         &none              &none           &none             &none           &none
-&kp ESC       &kp Q            &kp W        &kp E         &kp R         &kp T                 &kp Y         &kp U              &kp I           &kp O             &kp P           &kp MINUS
+&kp ESC       &kp Q            &kp W        &kp E         &kp R         &kp T                 &kp Y         &kp U              &kp I           &kp O             &kp P           &kp LBKT
 &kp TAB       &kp A            &mt LCTRL S  &mt LALT D    &mt LSHFT F   &kp G                 &kp H         &mt RSHFT J        &mt RALT K      &mt RCTRL L       &kp SEMI        &kp SQT
 &kp LWIN      &kp Z            &kp X        &kp C         &kp V         &kp B                 &kp N         &kp M              &kp COMMA       &kp DOT           &kp FSLH        &kp DEL
-&none         &none            &kp TILDE    &kp LBKT      &none         &none                 &none         &none              &kp K_BACK      &kp K_FORWARD     &none           &none
+&none         &none            &kp TILDE    &kp MINUS      &none         &none                 &none         &none              &kp K_BACK      &kp K_FORWARD     &none           &none
 &none         &mo 1            &mo 2        &kp K_CUT     &kp K_COPY    &kp K_PASTE           &kp ENTER     &kp SPACE          &kp BSPC        &mo 3             &mo 4           &none
             >;
         };
