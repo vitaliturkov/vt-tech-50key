@@ -34,7 +34,7 @@
 &kp TAB       &kp A            &mt LCTRL S  &mt LALT D    &mt LSHFT F   &kp G                 &kp H         &mt RSHFT J        &mt RALT K      &mt RCTRL L       &kp SEMI        &kp SQT
 &kp LWIN      &kp Z            &kp X        &kp C         &kp V         &kp B                 &kp N         &kp M              &kp COMMA       &kp DOT           &kp FSLH        &kp DEL
 &none         &none            &kp TILDE    &kp MINUS     &none         &none                 &none         &none              &kp K_BACK      &kp K_FORWARD     &none           &none
-&none         &mo 1            &mo 2        &kp K_CUT     &kp SPACE     &mo 5                 &kp ENTER     &kp SPACE          &kp BSPC        &mo 3             &mo 4           &none
+&none         &mo 1            &mo 2        &kp K_CUT     &kp SPACE     &to 5                 &kp ENTER     &kp SPACE          &kp BSPC        &mo 3             &mo 4           &none
             >;
         };
 
