@@ -34,7 +34,7 @@
 &kp TAB       &kp A            &mt LCTRL S  &mt LALT D    &mt LSHFT F   &kp G                 &kp H         &mt RSHFT J        &mt RALT K      &mt RCTRL L       &kp SEMI        &kp SQT
 &kp LWIN      &kp Z            &kp X        &kp C         &kp V         &kp B                 &kp N         &kp M              &kp COMMA       &kp DOT           &kp FSLH        &kp DEL
 &none         &none            &kp TILDE    &kp MINUS     &none         &none                 &none         &none              &kp K_BACK      &kp K_FORWARD     &none           &none
-&none         &mo 1            &mo 2        &kp K_CUT     &kp SPACE     &tog 5                 &kp ENTER     &kp SPACE          &kp BSPC        &mo 3             &mo 4           &none
+&none         &mo 1            &mo 2        &kp K_CUT     &kp SPACE     &tog 5                &kp ENTER     &kp SPACE          &kp BSPC        &mo 3             &mo 4           &none
             >;
         };
 
@@ -53,7 +53,7 @@
             bindings = <
 &none         &none            &none        &none         &none         &none                 &none         &none              &none           &none             &none           &none
 &trans        &kp EXCL         &kp AT       &kp POUND     &kp DLLR      &kp PRCNT             &kp KP_LPAR   &kp KP_RPAR        &kp LBRC        &kp RBRC          &kp PIPE        &kp BACKSLASH
-&trans        &kp CARET        &kp AMPS     &kp GRAVE        &trans        &trans                &kp LBKT      &kp RBKT           &trans          &trans            &trans          &trans
+&trans        &kp CARET        &kp AMPS     &kp GRAVE     &trans        &trans                &kp LBKT      &kp RBKT           &trans          &trans            &trans          &trans
 &trans        &trans           &trans       &trans        &trans        &trans                &trans        &trans             &trans          &trans            &trans          &trans
 &none         &none            &trans       &trans        &none         &none                 &none         &none              &trans          &trans            &none           &none
 &none         &trans           &trans       &trans        &trans        &trans                &trans        &trans             &trans          &trans            &trans          &none
@@ -72,7 +72,7 @@
         };
 
         layer_4 {
-            bindings = <
+            bindings =
 &none         &none            &none        &none         &none         &none                 &none         &none              &none           &none             &none           &none
 &trans        &trans           &kp F1       &kp F2        &kp F3        &kp F4                &bt BT_SEL 0  &bt BT_SEL 1       &bt BT_SEL 2    &bt BT_SEL 3      &bt BT_SEL 4    &bt BT_CLR_ALL
 &trans        &trans           &kp F5       &kp F6        &kp F7        &kp F8                &bt BT_CLR    &bt BT_PRV         &bt BT_NXT      &trans            &trans          &trans
