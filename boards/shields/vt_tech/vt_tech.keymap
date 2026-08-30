@@ -88,7 +88,7 @@
 &trans        &kp T            &kp Q        &kp W         &kp E         &kp R                 &trans        &trans             &kp UP          &trans            &trans          &trans
 &trans        &kp G            &kp A        &kp S         &kp D         &kp F                 &trans        &kp LEFT           &kp DOWN        &kp RIGHT         &trans          &trans
 &kp F5        &kp B            &kp Z        &kp X         &kp C         &kp V                 &trans        &trans             &trans          &trans            &trans          &trans
-&none         &none            &trans       &trans        &none         &trans                &none         &none              &kp C_VOL_DN    &kp C_VOL_UP      &none           &none
+&none         &none            &trans       &kp ENTER     &none         &trans                &none         &none              &kp C_VOL_DN    &kp C_VOL_UP      &none           &none
 &none         &mo 6            &kp LSHFT    &kp LCTRL     &kp LALT      &kp SPACE             &trans        &trans             &trans          &trans            &trans          &none
             >;
         };
